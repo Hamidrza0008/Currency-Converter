@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -19,3 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # Currency-Converter
 I built this project using React.js and Tailwind CSS, and integrated an API to fetch real-time currency prices.
 >>>>>>> 9a47e2e4892453402086594ac1e0e99ac0e21fbf
+=======
+# Currency-Converter
+I built this project using React.js and Tailwind CSS, and integrated an API to fetch real-time currency prices.
+>>>>>>> 2f0f1ce0ad7b54079ba0cf5b86265128a2080067

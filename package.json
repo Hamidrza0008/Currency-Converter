@@ -1,9 +1,9 @@
 {
+  "homepage": "https://hamidrza0008.github.io/Currency-Converter",
   "name": "my-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hamidrza0008.github.io/Currency-Converter",
 
 "scripts": {
   "dev": "vite",

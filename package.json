@@ -1,5 +1,5 @@
 {
-  "homepage": "https://hamidrza0008.github.io/Currency-Converter",
+  "homepage": "https://github.com/Hamidrza0008/Currency-Converter",
   "name": "my-project",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,9 @@
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview",
+  "predeploy":"npm run build",
   "deploy": "gh-pages -d dist"
+
 }
 ,
 
